@@ -1,4 +1,9 @@
 <!-- markdownlint-disable MD033 MD041 -->
+steam挂自动香蕉用，可以将窗口收到后台，同时去干别的活，解放双手和电脑
+更改delay(ms)可实现每三小时自动弹窗收香蕉，上传为测试设置为15s触发，修改json保存即可
+
+感谢：赛博香蕉农户根据 MaaFramework 开源项目模板修改，模板介绍与使用见下方
+
 <p align="center">
   <img alt="LOGO" src="https://cdn.jsdelivr.net/gh/MaaAssistantArknights/design@main/logo/maa-logo_512x512.png" width="256" height="256" />
 </p>
