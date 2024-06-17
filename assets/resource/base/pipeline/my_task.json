@@ -1,5 +1,16 @@
 {
-    "MyTask1": {},
-    "MyTask2": {},
-    "MyTask3": {}
+    "StartFruit": {
+        "next": [
+            "Banana"
+        ]
+    },
+    "Banana": {
+        "recognition": "TemplateMatch",
+        "template": "bananana.png",
+        "action": "Click",
+        "post_delay": 15000,
+        "target": true,
+        "target_offset": [50, 50, 50, 50],
+        "next": ["Banana"]
+    }
 }
